@@ -1,0 +1,14 @@
+{
+  "4079:71304AFF": {
+    "_modelId": "4079C0880000",
+    "_name": "G Pro Wireless Gaming Mouse",
+    "_sensitive": {
+      "dpi": false
+    },
+    "_serial": "71304AFF",
+    "_unitId": "71304AFF",
+    "dpi": "600",
+    "report_rate": 1
+  },
+  "_version": "1.0.7"
+}

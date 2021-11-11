@@ -1,0 +1,10 @@
+[commit]
+	gpgsign = true
+[user]
+	name = oreze
+	email = kunas1@o2.pl
+	signingkey = 231CF2B1804A5932
+[gpg]
+	program = gpg2
+[init]
+	defaultBranch = main
