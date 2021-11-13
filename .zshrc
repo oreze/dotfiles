@@ -113,6 +113,8 @@ alias yayup="yay -Syu"
 alias brewup="brew upgrade"
 alias snapup="sudo snap refresh --list"
 alias pacup="sudo pacman -Syu"
+alias updateall="pacup && yayup && snapup && brewup"
+
 alias vim=nvim
 alias vi=nvim
 alias suvim="sudo nvim"
