@@ -113,14 +113,13 @@ alias yayup="yay -Syu"
 alias brewup="brew upgrade"
 alias snapup="sudo snap refresh --list"
 alias pacup="sudo pacman -Syu"
-alias updateall="pacup && yayup && snapup && brewup"
+alias updateall="echo PACMAN && pacup && echo YAY && yayup && echo SNAP && snapup && echo BREW && brewup"
 
 alias vim=nvim
 alias vi=nvim
 alias suvim="sudo nvim"
 alias "sudo vim"="sudo nvim"
 alias kurwa="sudo"
-alias echo=cowsay
 alias say=cowsay
 alias ls="ls --color=auto"
 # git config
