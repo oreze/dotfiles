@@ -8,3 +8,5 @@
 	program = gpg2
 [init]
 	defaultBranch = main
+[core]
+	autocrlf = input
